@@ -1,0 +1,5 @@
+# Ignore directory named build
+[Bb]uild/
+
+# Ignore file useful for ycm with vim on Linux
+compile_commands.json
